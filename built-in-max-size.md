@@ -531,7 +531,7 @@ right_back =
 
 [object]
 name = Example opening (made-up numbers)
-date = 2026-10-04
+date =
 note = Shipped with the kit to check the install.
 
 [width]
@@ -1350,7 +1350,7 @@ it. Do this, in this order:
    between neighboring points; anything in or in front of the opening that the unit or
    its doors would hit (lights, outlets, pipes, intercoms, trim). Say what doesn't add
    up and which number is the likely culprit. Don't fix it yourself: the measurement
-   goes back to whoever took it, and the user waits for a confirmed one before designing.
+   goes back to whoever took it.
 4. **Run the script** and show the result:
    `python3 builtin_max_size.py measurements/<file>.ini`. Say which readings drove the
    width, which depth rule applied (back wall out of plumb by 10 mm or more takes the
@@ -1369,4 +1369,4 @@ it. Do this, in this order:
 
 ---
 
-Kit assembled 2026-10-19. Home page: https://github.com/maxsrebny57/built-in-max-size. MIT License, Copyright (c) 2026 Max Srebny; the full text is in `README.md` above. The spreadsheet check lives with the author; this file is the whole distribution.
+Kit assembled 2026-10-20. Home page: https://github.com/maxsrebny57/built-in-max-size. MIT License, Copyright (c) 2026 Max Srebny; the full text is in `README.md` above. The spreadsheet check lives with the author; this file is the whole distribution.
